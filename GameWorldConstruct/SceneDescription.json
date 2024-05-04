@@ -1,0 +1,129 @@
+{
+	"ModelProperties": [
+		{
+			"ModelName": "Beholder01",
+			"FilePath": "BeholderSketchfab_xyz_n_rgba_uv.ply",
+			"Position": [20.0, 10.0, 0.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 5.0,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [1.0, 0.0, 0.0]
+		},
+		{
+			"ModelName": "Beholder02",
+			"FilePath": "BeholderSketchfab_xyz_n_rgba_uv.ply",
+			"Position": [50.0, 10.0, 20.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 5.0,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [1.0, 0.0, 0.0]
+		},
+		{
+			"ModelName": "Beholder03",
+			"FilePath": "BeholderSketchfab_xyz_n_rgba_uv.ply",
+			"Position": [40.0, 10.0, -20.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 5.0,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [1.0, 0.0, 0.0]
+		},
+		{
+			"ModelName": "Beholder04",
+			"FilePath": "BeholderSketchfab_xyz_n_rgba_uv.ply",
+			"Position": [-30.0, 10.0, -75.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 5.0,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [1.0, 0.0, 0.0]
+		},
+		{
+			"ModelName": "Beholder05",
+			"FilePath": "BeholderSketchfab_xyz_n_rgba_uv.ply",
+			"Position": [0.0, 10.0, 50.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 5.0,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [1.0, 0.0, 0.0]
+		},
+		{
+			"ModelName": "Ground",
+			"FilePath": "Big_Flat_Mesh_256x256_00_132K_xyz_n_rgba_uv.ply",
+			"Position": [0.0, 0.0, 0.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 7.5,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": true,
+			"bUseManualColors": true,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Blank_UV_Text_Texture.bmp",
+					"TextureName": "Checkered_Tiles"
+				}
+			],
+			"Color": [0.7, 0.7, 0.7]
+		},
+		{
+			"ModelName": "Spiderman",
+			"FilePath": "legospiderman_full_body_xyz_n_rgba_uv.ply",
+			"Position": [-20.0, 10.5, 0.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 5,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "SpidermanUV_square.bmp",
+					"TextureName": "Checkered_Tiles"
+				}
+			]
+		}
+	],
+	"LightProperties": [
+		{
+			"LightId": 0,
+			"bLightOn": true, 
+			"LightType": 2.0,
+			"LinearAttenuation": 0.1,
+			"QuadraticAttenuation": 0.0,
+			"InnerAngle": 0.50,
+			"OuterAngle": 1.0,
+			"LightPosition": [0.0, 30.0, 0.0],
+			"LightDirection": [0.0, -1.0, 0.0],
+			"LightColor": [1.0, 1.0, 1.0]
+		}
+	],
+	"CameraProperties": {
+		"CameraPosition": [0.0, 50.0, 200.0]
+	}
+}
